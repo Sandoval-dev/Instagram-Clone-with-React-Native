@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-multiline-clamp": "^2.0.0",
+    "sass": "^1.71.1"
+  }
+}
